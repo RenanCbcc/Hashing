@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dell/CLionProjects/CHash/Hash_Table.c
+Hash_Table.h
+C:/Users/Dell/CLionProjects/CHash/Hash_Table.h
+
+C:/Users/Dell/CLionProjects/CHash/Hash_Table.h
+stdlib.h
+-
+stdio.h
+-
+intrin.h
+-
+
+C:/Users/Dell/CLionProjects/CHash/main.c
+Hash_Table.h
+C:/Users/Dell/CLionProjects/CHash/Hash_Table.h
+
